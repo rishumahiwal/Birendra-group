@@ -9,7 +9,13 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
         <title>Birendra Group</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <link rel="stylesheet" href="css/css.css">
-        
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/bootstrap-theme.css">
+        <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+        <link rel="stylesheet" type="application/json" href="css/bootstrap.css.map"/>
+        <link rel="stylesheet" type="application/json" href="bootstrap.css.map"/>
+        <link rel="stylesheet" type="application/json" href="bootstrap.min.css.map"/>
+        <link rel="stylesheet" type="application/json" href="bootstrap-theme.min.css.map"/>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
         <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
         <style>
